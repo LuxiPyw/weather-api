@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tnwqAfnfR6Q=",
+  "dgSpecHash": "1jqdOP75pxs=",
   "success": true,
-  "projectFilePath": "c:\\Users\\luxipew\\vs-rep\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\luxipew\\vs-rep\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luxipew\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

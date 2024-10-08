@@ -1,0 +1,6 @@
+C:\Users\luxipew\Rels\ConsoleApp1.exe
+C:\Users\luxipew\Rels\ConsoleApp1.dll
+C:\Users\luxipew\Rels\ConsoleApp1.deps.json
+C:\Users\luxipew\Rels\ConsoleApp1.runtimeconfig.json
+C:\Users\luxipew\Rels\ConsoleApp1.pdb
+C:\Users\luxipew\Rels\Newtonsoft.Json.dll
